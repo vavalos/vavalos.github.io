@@ -1,0 +1,45 @@
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="stjcc.com" resolutions="1x" timestamp="1453905248918">
+  <folder name="css">
+    <file name="site_global.css" crc="52017846"/>
+    <file name="master_home-page-master.css" crc="293008151" ref="index"/>
+    <file name="master_home-page-master-contact.css" crc="105236482" ref="contact"/>
+    <file name="master_page-master-contacts.css" crc="35236992" ref="contact"/>
+    <file name="index.css" crc="172674224" ref="index"/>
+    <file name="contact.css" crc="233246659" ref="contact"/>
+  </folder>
+  <folder name="assets">
+    <file name="apple-touch-icon.png" crc="119951008" seo="true" mt="1368796946000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:contact"/>
+    <file name="museutils.js" crc="275725342" ref="index:contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="index:contact"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:contact"/>
+    <file name="webpro.js" crc="3883484123" ref="contact"/>
+    <file name="form_check.php" crc="3932029206" ref="contact"/>
+    <file name="form_throttle.php" crc="314685628" ref="contact"/>
+    <file name="form_process.php" crc="401030677" ref="contact"/>
+    <file name="form-u2181.php" crc="4104192769" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="home-page-master-favicon.ico" crc="3969320889" ref="index"/>
+    <file name="page-bkg.jpg" crc="4161370489" ref="index:contact"/>
+    <file name="church_inside.jpg" crc="4136795174" ref="index"/>
+    <file name="stjohn-u2804.png" crc="62665658" ref="index"/>
+    <file name="large-button-back-b.jpg" crc="3960984485" ref="index:contact"/>
+    <file name="untitled-1.png" crc="4231729736" ref="index"/>
+    <file name="vertical-dash.gif" crc="261525441" ref="index"/>
+    <file name="stjohn-u3095.png" crc="62665658" ref="index"/>
+    <file name="page-btm.jpg" crc="3810053691" seo="true" ref="index:contact"/>
+    <file name="home-page-master-contact-favicon.ico" crc="3969320889" ref="contact"/>
+    <file name="large-button-back-a-u2187-17.png" crc="324889728" ref="contact"/>
+    <file name="large-button-back-b-u2187-17-r.png" crc="4142913546" ref="contact"/>
+    <file name="large-button-back-b-u2187-17-m.png" crc="67917145" ref="contact"/>
+    <file name="large-button-back-a-u2187-17-fs.png" crc="419621691" ref="contact"/>
+    <file name="stjohn-u3102.png" crc="62665658" ref="contact"/>
+  </folder>
+  <file name="index.html" crc="4184530388" seo="true" mt="1453904743366" redirect="true"/>
+  <file name="contact.html" crc="330440725" seo="true" mt="1453905174839" redirect="true"/>
+</manifest>
